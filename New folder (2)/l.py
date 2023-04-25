@@ -1,0 +1,17 @@
+from tkinter import *
+from tkinter import filedialog as fd
+a = Tk()
+a.geometry("500x500")
+b = Frame(a)
+b.pack(fill=BOTH, expand=1)
+c = Canvas(b)
+c.pack(side=LEFT, fill=BOTH, expand=1)
+d = Scrollbar(b, orient=VERTICAL, command=c.yview)
+d.pack(side=RIGHT, fill=Y)
+c.config(yscrollcommand=d.set)
+c.bind('<Configure>', lambda e: c.configure(scrollregion=c.bbox("all")))
+second_frame = Frame(c, width = 1000, height = 100)
+btn1 = Button(second_frame,text="Browse...",compound="left",fg="blue", width=22,font=("bold", 10),height=1,)
+btn1.place(x=600, y=0)
+c.create_window((0, 0), window=second_frame, anchor="nw")
+Label(b,text='hey').place(x=100,y=1000)

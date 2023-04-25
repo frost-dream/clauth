@@ -1,0 +1,32 @@
+https://stackoverflow.com/questions/75355297/trouble-installing-pybluez-package
+https://stackoverflow.com/questions/75182214/trouble-installing-some-packages-python
+https://stackoverflow.com/questions/75158787/wm-iconphoto-in-tkinter-multiple-times
+https://stackoverflow.com/questions/75374523/how-can-i-handle-drag-and-drop-files-into-program
+https://stackoverflow.com/questions/75386617/join-a-range-of-numbers-to-a-list-of-strings
+https://stackoverflow.com/questions/75399594/drag-and-drop-files-in-python
+https://stackoverflow.com/questions/75413269/recording-screen-in-python
+https://stackoverflow.com/questions/75427487/how-to-get-tkinter-resolution-back-in-python
+https://stackoverflow.com/questions/75427964/how-can-i-set-an-audio-file-for-video-clip-with-moviepy-without-re-encoding
+https://stackoverflow.com/questions/75431492/how-to-convert-ffmpeg-code-to-moviepy-in-python
+https://stackoverflow.com/questions/75447325/how-to-record-system-audio-in-python
+https://stackoverflow.com/questions/75459386/how-to-remove-menubar-in-tkinter
+https://stackoverflow.com/questions/75468418/what-is-the-difference-between-global-and-globals-python/75468431#75468431
+https://stackoverflow.com/questions/75484655/how-to-delete-a-frame-in-opencv
+https://stackoverflow.com/questions/75485285/how-to-take-screenshot-using-d3dshot
+https://stackoverflow.com/questions/75486348/error-using-d3dshot-create-in-python-oserror-exception-access-violation-writ
+https://stackoverflow.com/questions/75571040/problem-in-importing-os-chown-and-shutil-chown
+https://stackoverflow.com/questions/75573817/change-the-tray-image-on-pystray
+https://stackoverflow.com/questions/75576258/make-a-sound-from-live-while-saving-as-a-file
+https://stackoverflow.com/questions/75606867/trying-to-fix-this-error-with-shutil-chown
+https://stackoverflow.com/questions/75659030/problem-with-moviepy-video-io-ffmpeg-tools-ffmpeg-movie-from-frames
+https://stackoverflow.com/questions/75662183/how-can-i-make-tkinter-window-come-to-front
+https://stackoverflow.com/questions/75736084/trouble-installing-pybluez
+https://stackoverflow.com/questions/75744265/py-file-works-fine-but-exe-file-is-not-working/75744373#75744373
+https://stackoverflow.com/questions/75913623/how-can-i-get-the-current-master-volume-in-python
+https://stackoverflow.com/questions/75951975/how-to-send-ps4-controller-output-with-python
+
+https://stackoverflow.com/users/21282069/roft
+
+names
+ ano
+ frl
